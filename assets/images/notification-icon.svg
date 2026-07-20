@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 200 160">
+  <!-- Origami crane silhouette — white on transparent for Android notifications -->
+
+  <!-- Left wing lower surface -->
+  <polygon points="0,118 78,75 68,125" fill="white"/>
+
+  <!-- Right wing lower surface -->
+  <polygon points="200,118 122,75 132,125" fill="white"/>
+
+  <!-- Body center triangle -->
+  <polygon points="78,75 122,75 100,125" fill="white"/>
+
+  <!-- Left wing upper surface (slightly darker shade via opacity to show fold) -->
+  <polygon points="0,118 42,90 78,75" fill="white" opacity="0.82"/>
+
+  <!-- Right wing upper surface -->
+  <polygon points="200,118 158,90 122,75" fill="white" opacity="0.82"/>
+
+  <!-- Tail spike (up-left) -->
+  <polygon points="72,75 88,75 55,28" fill="white"/>
+
+  <!-- Neck (up-right) -->
+  <polygon points="112,75 128,75 124,32" fill="white"/>
+
+  <!-- Head -->
+  <polygon points="124,32 138,14 118,24" fill="white"/>
+</svg>
